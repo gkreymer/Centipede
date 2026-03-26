@@ -102,7 +102,6 @@ If those files are missing, the game will still run, but it will fall back to te
 - Most gameplay tuning can be adjusted near the top of `Centipede.py` in the constants and `LEVEL_TABLE`.
 - Sprite appearance is defined in the sprite-bank helper section.
 - HUD and attract-screen presentation are handled inside the `CentipedeGame` drawing methods.
-- If you later want a standard project readme name, this file can be renamed from `READNE.md` to `README.md`.
 
 ## Author
 
